@@ -2,6 +2,10 @@
 
 > Human friendly configuration file format for Node
 
+## Live Preview Demo
+
+https://imagentleman.github.io/codex/
+
 ## Example
 
 ```
